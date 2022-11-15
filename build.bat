@@ -1,0 +1,1 @@
+g++ -Wall -std=c++11 -Werror -pedantic Resample.cpp Wave.cpp ResampleTest.cpp -O2 -o Resample.exe
